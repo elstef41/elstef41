@@ -17,6 +17,8 @@ Si encuentras uno o varios bugs en cualquiera de mis programas, siéntete libre 
 
 [Muestra de Sobreloader](https://www.youtube.com/watch?v=361VnDl855s)
 
+[Presentación de Syinfo](https://www.elstef41.com/2022/05/mira-informacion-relevante-de-tu-equipo.html)
+
 [Mis proyectos en SourceForge](https://sourceforge.net/u/elstef41/)
 
 [Código fuente de mi antiguo blog](https://github.com/elstef41/legacy-blog)
